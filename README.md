@@ -3,4 +3,4 @@ Funcoin (FUN)
 
 
 
-Scrypt Hashcash PoW Template
+Official currency of FunVampire negotiation
